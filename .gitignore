@@ -3,3 +3,4 @@ releases
 bower_components
 node_modules
 .vs
+dist
